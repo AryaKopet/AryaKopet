@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](<./images/github-header-image%20(1).png>)
+
+## Hi there! I'm Arya Wijaya 👋
 
 <!-- **AryaKopet/AryaKopet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+![coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhzY3UyZWM0c3J1MjNvMm4yYXhiNTYxNzQ3dmVmOXAydTg0bmR2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
