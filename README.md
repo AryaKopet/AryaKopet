@@ -33,17 +33,17 @@ I am a junior programmer who often makes small projects to hone my advanced prog
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AryaKopet&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryaKopet&theme=github_dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKopet&theme=github_dark&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AryaKopet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AryaKopet&theme=algolia)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKopet&theme=algolia&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AryaKopet&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AryaKopet&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=AryaKopet&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AryaKopet&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 
