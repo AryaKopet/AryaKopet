@@ -45,8 +45,15 @@ I am a junior programmer who often makes small projects to hone my advanced prog
 
 ![](https://github-contributor-stats.vercel.app/api?username=AryaKopet&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=AryaKopet&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="left">help, pacman ate my commit!</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaKopet/AryaKopet/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaKopet/AryaKopet/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaKopet/AryaKopet/output/pacman-contribution-graph.svg">
+</picture>
+
+###
