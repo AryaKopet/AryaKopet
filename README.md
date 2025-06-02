@@ -1,4 +1,4 @@
-.![header](<./images/github-header-image%20(1).png>)
+![header](<./images/github-header-image%20(1).png>)
 
 <!-- ## Hi there! I'm Arya Wijaya 👋
 
